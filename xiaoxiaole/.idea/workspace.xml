@@ -18,9 +18,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="65" lean-forward="false" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
+            <state relative-caret-position="170">
+              <caret line="50" column="29" lean-forward="false" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
               <folding>
+                <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -30,8 +31,8 @@
       <file leaf-file-name="game.min.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SeaTreasureMatch_files/game.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="94" column="150" lean-forward="false" selection-start-line="94" selection-start-column="150" selection-end-line="94" selection-end-column="150" />
+            <state relative-caret-position="305">
+              <caret line="987" column="59" lean-forward="false" selection-start-line="987" selection-start-column="59" selection-end-line="987" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -41,7 +42,10 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>音乐打开</find>
+      <find>开始游戏</find>
       <find>logo.png</find>
+      <find>music</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -198,12 +202,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511056162664</updated>
-      <workItem from="1511056164382" duration="510000" />
+      <workItem from="1511056164382" duration="879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="510000" />
+    <option name="totallyTimeSpent" value="879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -243,9 +247,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="65" lean-forward="false" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
+        <state relative-caret-position="170">
+          <caret line="50" column="29" lean-forward="false" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
           <folding>
+            <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -253,8 +258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SeaTreasureMatch_files/game.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="94" column="150" lean-forward="false" selection-start-line="94" selection-start-column="150" selection-end-line="94" selection-end-column="150" />
+        <state relative-caret-position="305">
+          <caret line="987" column="59" lean-forward="false" selection-start-line="987" selection-start-column="59" selection-end-line="987" selection-end-column="59" />
           <folding />
         </state>
       </provider>
